@@ -1,0 +1,46 @@
+/*  ====================  */
+/*  COLORS                */
+/*  ====================  */
+
+/*  == GREYSCALE ==  */
+/*
+    A base set of greys to share across all the palettes, along with black and white.
+*/
+
+$colors__black:   #000000;
+$colors__grey-10: #1a1a1a;
+$colors__grey-20: #333333;
+$colors__grey-30: #4d4d4d;
+$colors__grey-40: #666666;
+$colors__grey-50: #808080;
+$colors__grey-60: #999999;
+$colors__grey-70: #b3b3b3;
+$colors__grey-80: #cccccc;
+$colors__grey-90: #e5e5e5;
+$colors__white:   #ffffff;
+
+/*  == MATERIAL DESIGN PALETTE ==  */
+/*
+    Colors as defined in Google's Material Design guidelines
+    https://material.io/guidelines/style/color.html#color-color-palette
+*/
+
+$colors__material__red:         #f44336;
+$colors__material__pink:        #e91e63;
+$colors__material__purple:      #9c27b0;
+$colors__material__deep-purple: #673ab7;
+$colors__material__indigo:      #3f51b5;
+$colors__material__blue:        #2196f3;
+$colors__material__light-blue:  #03a9f4;
+$colors__material__cyan:        #00bcd4;
+$colors__material__teal:        #009688;
+$colors__material__green:       #4caf50;
+$colors__material__light-green: #8bc34a;
+$colors__material__lime:        #cddc39;
+$colors__material__yellow:      #ffeb3b;
+$colors__material__amber:       #ffc107;
+$colors__material__orange:      #ff9800;
+$colors__material__deep-orange: #ff5722;
+$colors__material__brown:       #795548;
+$colors__material__grey:        #9e9e9e;
+$colors__material__blue-grey:   #607d8b;

@@ -1,0 +1,17 @@
+/*  ====================  */
+/*  FUNCTIONS             */
+/*  ====================  */
+
+/*  == EXPONENT CALCULATOR ==  */
+/*
+    Calculates the exponent value of a provided base number and multiplier
+    Primarily used for font sizing
+*/
+
+@function pow($base, $exponent) {
+    $r: 1;
+    @for $i from 1 through $exponent {
+        $r: $r * $base;
+    }
+    @return $r;
+}

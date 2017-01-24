@@ -1,0 +1,20 @@
+/*  ====================  */
+/*  TYPOGRAPHY            */
+/*  ====================  */
+
+/*  == TYPE SIZING ==  */
+
+$type__base-size: 100%; // Will be 16px in 99% of cases
+$type__line-height: 1.5;
+$type__ratio: 1.25; // creates a 4:5 major third ratio
+
+/*  == TYPE FACES ==  */
+
+$type__sans: 'Helvetica', 'Arial', sans-serif;
+$type__serif: Georgia, serif;
+
+/*  == TYPE WEIGHTS ==  */
+
+$type__light: 300;
+$type__normal: 500;
+$type__bold: 700;
